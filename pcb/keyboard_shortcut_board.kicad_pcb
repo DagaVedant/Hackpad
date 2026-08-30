@@ -1082,9 +1082,9 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "0ffa2854-b874-4cf0-90f2-49843d154c64")
-		(at 124.0172 25.4768)
+		(at 124.5186 24.9528)
 		(property "Reference" "H2"
-			(at 0 -4.15 0)
+			(at 0.5014 -4.6740 0)
 			(layer "F.SilkS")
 			(uuid "5e96ff39-35c2-48a7-acbb-f6754be16aa7")
 			(effects
@@ -1095,7 +1095,7 @@
 			)
 		)
 		(property "Value" "MountingHole_3.2mm_M3"
-			(at 0 4.15 0)
+			(at 0.5014 3.6260 0)
 			(layer "F.Fab")
 			(uuid "2647de65-d465-47ab-87f2-6c40a52a64dc")
 			(effects
@@ -1106,7 +1106,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0.5014 -0.5240 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e1de62a1-71c3-49de-9312-0f897bf88c9f")
@@ -1117,7 +1117,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0.5014 -0.5240 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5c5b971b-8005-428a-a16e-bad2d70cd552")
@@ -1128,7 +1128,7 @@
 			)
 		)
 		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
+			(at 0.5014 -0.5240 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "2e3e86d4-ad5f-4207-a8eb-837027c6ebd6")
@@ -1164,7 +1164,7 @@
 			(uuid "19d0dbe6-092a-4a9c-8dcd-91ae493779f8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0.5014 -0.5240 0)
 			(layer "F.Fab")
 			(uuid "54866676-5f05-4b78-840f-8dd7d09691ef")
 			(effects
@@ -2489,9 +2489,9 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "46f9e355-88eb-4b65-b024-5b45bf7ff746")
-		(at 124.0172 107.1768)
+		(at 124.5186 107.7007)
 		(property "Reference" "H4"
-			(at 0 -4.15 0)
+			(at 0.5014 -3.6261 0)
 			(layer "F.SilkS")
 			(uuid "fa125592-80ee-4bbc-998d-b6ffb007581e")
 			(effects
@@ -2502,7 +2502,7 @@
 			)
 		)
 		(property "Value" "MountingHole_3.2mm_M3"
-			(at 0 4.15 0)
+			(at 0.5014 4.6739 0)
 			(layer "F.Fab")
 			(uuid "4bd59815-a659-4fb6-bfed-cf5c94ccfd84")
 			(effects
@@ -2513,7 +2513,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0.5014 0.5239 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "50e8db98-f488-461b-8478-6068eeed892f")
@@ -2524,7 +2524,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0.5014 0.5239 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "64112711-27ef-49d8-a41d-ea3c89e2eb6f")
@@ -2535,7 +2535,7 @@
 			)
 		)
 		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
+			(at 0.5014 0.5239 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e9829c3c-00b6-427c-b78c-57a49c011229")
@@ -2571,7 +2571,7 @@
 			(uuid "c0032118-2c6f-4a61-98d9-6a47623806c1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0.5014 0.5239 0)
 			(layer "F.Fab")
 			(uuid "d96a14b1-99e0-42d1-ae1a-e1d49aa9b21c")
 			(effects
@@ -2593,9 +2593,9 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "5b50fa58-058c-4607-a458-c55147f30785")
-		(at 36.3172 107.4768)
+		(at 36.2932 107.7007)
 		(property "Reference" "H3"
-			(at 0 -4.15 0)
+			(at -0.0240 -3.9261 0)
 			(layer "F.SilkS")
 			(uuid "ccf88e39-bc87-4d57-993e-a6ce9782aae5")
 			(effects
@@ -2606,7 +2606,7 @@
 			)
 		)
 		(property "Value" "MountingHole_3.2mm_M3"
-			(at 0 4.15 0)
+			(at -0.0240 4.3739 0)
 			(layer "F.Fab")
 			(uuid "d2eb07c2-7a54-4e16-99a6-46605f5a01cb")
 			(effects
@@ -2617,7 +2617,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at -0.0240 0.2239 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8b5c1671-fc90-4675-87bb-14a41819c7fe")
@@ -2628,7 +2628,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at -0.0240 0.2239 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "acd70976-5366-4e10-8165-3faf3fd8e3dd")
@@ -2639,7 +2639,7 @@
 			)
 		)
 		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
+			(at -0.0240 0.2239 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "d3f1cb66-febd-4752-8156-14e415333e00")
@@ -2675,7 +2675,7 @@
 			(uuid "f955ec1e-a5ad-48c5-83e8-281eb7e51d09")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at -0.0240 0.2239 0)
 			(layer "F.Fab")
 			(uuid "0c21c007-5369-4cab-b365-714091147645")
 			(effects
@@ -9040,9 +9040,9 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "d8e387ef-6c03-4b57-a5ce-497c07cac40c")
-		(at 36.8172 25.4768)
+		(at 36.2932 24.9528)
 		(property "Reference" "H1"
-			(at 0 -4.15 0)
+			(at -0.5240 -4.6740 0)
 			(layer "F.SilkS")
 			(uuid "ccbc4d4f-5b02-4bc1-8c50-3b07328ce22c")
 			(effects
@@ -9053,7 +9053,7 @@
 			)
 		)
 		(property "Value" "MountingHole_3.2mm_M3"
-			(at 0 4.15 0)
+			(at -0.5240 3.6260 0)
 			(layer "F.Fab")
 			(uuid "d18c56e8-02a3-4a68-b2ba-930f77c9daf9")
 			(effects
@@ -9064,7 +9064,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at -0.5240 -0.5240 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "79209591-c1e9-4d8c-a6ac-25a5e31ff236")
@@ -9075,7 +9075,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at -0.5240 -0.5240 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ded27964-77f0-48fa-92dd-dc1fa1b5164a")
@@ -9086,7 +9086,7 @@
 			)
 		)
 		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
+			(at -0.5240 -0.5240 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "737174ad-ca35-4c75-86e6-3fe97d6eb6a3")
@@ -9122,7 +9122,7 @@
 			(uuid "89cfbbf0-e57d-4b12-aa19-718097ab70ab")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at -0.5240 -0.5240 0)
 			(layer "F.Fab")
 			(uuid "d108ddb1-dc2f-42c2-a330-326cef16d962")
 			(effects
