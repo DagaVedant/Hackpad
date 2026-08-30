@@ -1,4 +1,3 @@
-# KiCad autosave / backup / lock files
 *-backups/
 _autosave-*
 *.000
@@ -9,7 +8,6 @@ _autosave-*
 fp-info-cache
 ~*.lck
 
-# KiCad generated output that is not the committed deliverable
 *.net
 *.xml
 *.drl
@@ -17,18 +15,11 @@ fp-info-cache
 *.gbrjob
 gerbers/
 
-# VS Code Local History extension (contains a nested .git, never commit)
 .history/
 **/.history/
 
-# OS junk
 Thumbs.db
 desktop.ini
 .DS_Store
 
-# Fusion 360 working files (the .step deliverable in cad/ IS committed)
-*.f3d
-*.f3z
-
-# KiCad regenerates this local-settings file on every CLI run
 *.kicad_prl
