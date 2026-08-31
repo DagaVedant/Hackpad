@@ -4,11 +4,6 @@ a 3x3 macropad for shortcuts, built for [hackpad](https://hackpad.hackclub.com).
 9 keys, a rotary encoder, per key rgb, and a 0.91" oled that shows a clock and a
 spinning globe.
 
-## the pad
-
-> **TODO:** photo of the finished build, once the case is printed and it's
-> soldered together
-
 ## schematic
 
 ![schematic](assets/schematic.png)
@@ -31,8 +26,17 @@ port clears the case wall.
 
 ## case
 
-> **TODO:** render or exploded view showing how the plate, pcb and bottom fit
-> together. not designed yet
+![case](assets/case.png)
+
+a sandwich: 1.5mm switch plate on top, the pcb in the middle, tray bottom
+underneath. 102.38 x 96.90mm overall, 16.6mm tall closed.
+
+the pcb rests on four bosses at 10mm, which leaves a 7.5mm cavity under the
+board for the reverse mounted leds and the xiao. m3 heatset inserts drop into
+the bosses from above. the only overhang is the usb-c slot in the side wall,
+which is a 7mm bridge.
+
+`cad/Hackpad Top v2.step` and `cad/Hackpad Bottom v2.step`.
 
 ## oled
 
