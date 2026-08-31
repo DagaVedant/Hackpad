@@ -120,7 +120,3 @@ firmware/   qmk source and the compiled uf2
 cad/        case model
 assets/     images for this readme
 ```
-
-## license
-
-> **TODO:** pick one, mit is a fine default
