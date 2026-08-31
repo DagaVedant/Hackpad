@@ -19,11 +19,6 @@ the 9 sk6812mini-e leds are reverse mounted. they sit in milled slots in the
 board and shine up through the switches, so the lighting is per key rather than
 underglow.
 
-![routing](assets/pcb-routing.png)
-
-red is front copper, blue is back. the xiao sits on the underside so the usb-c
-port clears the case wall.
-
 ## case
 
 ![case](assets/case.png)
