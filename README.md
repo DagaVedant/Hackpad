@@ -28,6 +28,8 @@ port clears the case wall.
 
 ![case](assets/case.png)
 
+[open the assembly in onshape](https://cad.onshape.com/documents/58a01ca66c97d1b4010a7a00/w/fc5b38729478e50a03cca7d8/e/0de70a1a8ca9505f551d6dfe?renderMode=0&uiState=6a9506f6d62aea1f59718b50)
+
 a sandwich: 1.5mm switch plate on top, the pcb in the middle, tray bottom
 underneath. 102.38 x 96.90mm overall, 16.6mm tall closed.
 
@@ -36,7 +38,8 @@ board for the reverse mounted leds and the xiao. m3 heatset inserts drop into
 the bosses from above. the only overhang is the usb-c slot in the side wall,
 which is a 7mm bridge.
 
-`cad/Hackpad Top v2.step` and `cad/Hackpad Bottom v2.step`.
+`cad/Hackpad Top v2.step`, `cad/Hackpad Bottom v2.step`, and
+`cad/Hackpad Assembly v2.step`.
 
 ## oled
 
