@@ -3587,7 +3587,7 @@
 			(uuid "a822582f-9600-4aeb-a206-f6cb7c9352cc")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "SW2")
 					(unit 1)
@@ -3672,7 +3672,7 @@
 			(uuid "9b3d6736-3647-4666-988e-e672be02bfa6")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "SW10")
 					(unit 1)
@@ -3776,7 +3776,7 @@
 			(uuid "4c2b24d9-6378-4379-8814-491c8b032c27")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D11")
 					(unit 1)
@@ -3866,7 +3866,7 @@
 			(uuid "d067f107-ffcf-438c-82e8-7451298ec852")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D6")
 					(unit 1)
@@ -3954,7 +3954,7 @@
 			(uuid "558d449b-3554-40fe-97cb-ab9750d40ad9")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "U2")
 					(unit 1)
@@ -4034,7 +4034,7 @@
 			(uuid "cc16a564-8619-44e1-81fa-a71308ad9ce3")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "SW6")
 					(unit 1)
@@ -4124,7 +4124,7 @@
 			(uuid "b349be5a-2837-40db-86d5-906d0afc4c0d")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D8")
 					(unit 1)
@@ -4214,7 +4214,7 @@
 			(uuid "c308a2ec-ad6d-4f4b-80c1-f5172070ecdc")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D2")
 					(unit 1)
@@ -4304,7 +4304,7 @@
 			(uuid "a6b97dcc-aa25-4006-9771-a7b31be40977")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D4")
 					(unit 1)
@@ -4384,7 +4384,7 @@
 			(uuid "eafb6d0a-4cca-48eb-9d8b-86870ce76abb")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "SW5")
 					(unit 1)
@@ -4474,7 +4474,7 @@
 			(uuid "8260e56c-a66c-429a-ac0b-76e47a22788d")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D9")
 					(unit 1)
@@ -4578,7 +4578,7 @@
 			(uuid "8e025c81-b173-4d28-b8b4-a214c11560c3")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D12")
 					(unit 1)
@@ -4668,7 +4668,7 @@
 			(uuid "57d72a8f-a8ac-4170-beb4-27e57883bb42")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D5")
 					(unit 1)
@@ -4784,7 +4784,7 @@
 			(uuid "3dd21057-5f76-4707-9c8e-dda84ccd74e7")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "U1")
 					(unit 1)
@@ -4864,7 +4864,7 @@
 			(uuid "af9dbb37-1291-4e09-8d4a-2013f183fb44")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "SW7")
 					(unit 1)
@@ -4944,7 +4944,7 @@
 			(uuid "7f7fa1c1-c534-45f3-a463-61786c8fd13e")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "SW3")
 					(unit 1)
@@ -5024,7 +5024,7 @@
 			(uuid "9a52da50-1f54-4b20-a28c-6e20f0bb32f2")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "SW9")
 					(unit 1)
@@ -5129,7 +5129,7 @@
 			(uuid "f75ace73-77ed-4d26-8ec0-21f4fbbf29eb")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D15")
 					(unit 1)
@@ -5233,7 +5233,7 @@
 			(uuid "13da8eaf-66e0-4fb0-977d-364ac9af17f6")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D14")
 					(unit 1)
@@ -5337,7 +5337,7 @@
 			(uuid "e0ba087b-79b4-46d1-8b7b-7ea3dec2c2f6")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D17")
 					(unit 1)
@@ -5441,7 +5441,7 @@
 			(uuid "f1e6d7ed-c5e2-48e5-8d81-a5a4cff2763c")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D13")
 					(unit 1)
@@ -5531,7 +5531,7 @@
 			(uuid "690c0abc-b98c-47b6-b0ab-bad6996d2a94")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D1")
 					(unit 1)
@@ -5611,7 +5611,7 @@
 			(uuid "f03f0507-5cd4-4862-acd1-7dd45d4f1371")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "SW1")
 					(unit 1)
@@ -5691,7 +5691,7 @@
 			(uuid "e07e29c8-1ba9-4412-843c-240f600b5d33")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "SW8")
 					(unit 1)
@@ -5795,7 +5795,7 @@
 			(uuid "f43fdd18-077f-4dcc-9694-65aae7fdf588")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D10")
 					(unit 1)
@@ -5899,7 +5899,7 @@
 			(uuid "56b0551f-4aa8-4755-8b61-381e3672c7b9")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D18")
 					(unit 1)
@@ -5979,7 +5979,7 @@
 			(uuid "18ebb483-9b80-421c-9113-ad774e66fd63")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "SW4")
 					(unit 1)
@@ -6083,7 +6083,7 @@
 			(uuid "43d1001e-16c7-409a-a487-66cc3f8bf1b2")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D16")
 					(unit 1)
@@ -6173,7 +6173,7 @@
 			(uuid "58442704-8823-4308-b6a9-d8c63a3c1517")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D3")
 					(unit 1)
@@ -6263,7 +6263,7 @@
 			(uuid "d7e35acb-291c-44a6-9386-b8488e7ef868")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "D7")
 					(unit 1)
@@ -6329,7 +6329,7 @@
 			(uuid "27bbeb16-092d-4db4-a4ac-8b45726b7917")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "#PWR01")
 					(unit 1)
@@ -6429,7 +6429,7 @@
 			(uuid "d81736d8-eeb2-42d9-8218-4879d760d20c")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "#PWR02")
 					(unit 1)
@@ -6495,7 +6495,7 @@
 			(uuid "f8dd45bb-1df0-4171-9bfd-0a22b2c0ff59")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "#FLG01")
 					(unit 1)
@@ -6595,7 +6595,7 @@
 			(uuid "3986e678-bcf7-490b-b403-1b953f16928d")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "#PWR03")
 					(unit 1)
@@ -6661,7 +6661,7 @@
 			(uuid "cc1b9cb3-77e8-469f-a1d2-fd93fcf5029d")
 		)
 		(instances
-			(project "keyboard_shortcut_board"
+			(project "minipad"
 				(path "/b40b2764-e50a-4f65-8851-4bf566122a9b"
 					(reference "#FLG02")
 					(unit 1)

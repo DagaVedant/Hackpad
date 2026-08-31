@@ -1,4 +1,4 @@
-# hackpad
+# minipad
 
 a 3x3 macropad for shortcuts, built for [hackpad](https://hackpad.hackclub.com).
 9 keys, a rotary encoder, per key rgb, and a 0.91" oled that shows a clock and a
@@ -6,7 +6,7 @@ spinning globe.
 
 ## the pad
 
-![hackpad](assets/hackpad.png)
+![minipad](assets/minipad.png)
 
 rendered from the actual case and board files in this repo, not a mockup. photo
 of the real thing goes here once it's printed and soldered.
@@ -114,10 +114,10 @@ qmk. `production/firmware.uf2` is prebuilt, so to flash it just double tap reset
 on the xiao and drag the file onto the drive that appears.
 
 to build it yourself, drop `firmware/` into
-`qmk_firmware/keyboards/keyboard_shortcut_board/` and run:
+`qmk_firmware/keyboards/minipad/` and run:
 
 ```
-qmk compile -kb keyboard_shortcut_board -km default
+qmk compile -kb minipad -km default
 ```
 
 ## layout

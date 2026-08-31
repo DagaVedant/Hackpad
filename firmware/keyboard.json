@@ -1,6 +1,6 @@
 {
     "manufacturer": "Vedant Daga",
-    "keyboard_name": "keyboard_shortcut_board",
+    "keyboard_name": "minipad",
     "maintainer": "vedantdaga",
     "bootloader": "rp2040",
     "diode_direction": "ROW2COL",

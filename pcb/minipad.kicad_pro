@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "keyboard_shortcut_board.kicad_pro",
+    "filename": "minipad.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -643,7 +643,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "keyboard_shortcut_board.kicad_sch",
+        "filename": "minipad.kicad_sch",
         "name": "Root",
         "uuid": "b40b2764-e50a-4f65-8851-4bf566122a9b"
       }
