@@ -1,4 +1,4 @@
-# keyboard shortcut board
+# hackpad
 
 a 3x3 macropad for shortcuts, built for [hackpad](https://hackpad.hackclub.com).
 9 keys, a rotary encoder, per key rgb, and a 0.91" oled that shows a clock and a
