@@ -37,14 +37,9 @@ underneath. 102.38 x 96.90mm overall, 16.6mm tall closed.
 
 the pcb rests on four bosses at 10mm, which leaves a 7.5mm cavity under the
 board for the reverse mounted leds and the xiao. m3 heatset inserts drop into
-the bosses from above. the only overhang is the usb-c slot in the side wall,
+the bosses from above, and four m3 screws through the plate into those inserts
+hold the stack together. the only overhang is the usb-c slot in the side wall,
 which is a 7mm bridge.
-
-![case fit](assets/case-fit.png)
-
-plate on top, pcb in the middle with the switches clipped into it, tray bottom
-underneath. four m3 screws through the plate into the heatset inserts hold the
-stack together.
 
 `production/Top.STEP` and `production/Bottom.STEP` are the two printable parts.
 `cad/Assembly.STEP` is the whole thing put together, with the pcb in it.
