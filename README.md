@@ -33,8 +33,8 @@ board for the reverse mounted leds and the xiao. m3 heatset inserts drop into
 the bosses from above. the only overhang is the usb-c slot in the side wall,
 which is a 7mm bridge.
 
-`cad/Hackpad Top v2.step`, `cad/Hackpad Bottom v2.step`, and
-`cad/Hackpad Assembly v2.step`.
+`cad/Top.STEP` and `cad/Bottom.STEP` are the two printable parts.
+`cad/Assembly.STEP` is the whole thing put together, with the pcb in it.
 
 ## oled
 
