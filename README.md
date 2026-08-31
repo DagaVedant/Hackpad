@@ -33,7 +33,7 @@ board for the reverse mounted leds and the xiao. m3 heatset inserts drop into
 the bosses from above. the only overhang is the usb-c slot in the side wall,
 which is a 7mm bridge.
 
-`cad/Top.STEP` and `cad/Bottom.STEP` are the two printable parts.
+`production/Top.STEP` and `production/Bottom.STEP` are the two printable parts.
 `cad/Assembly.STEP` is the whole thing put together, with the pcb in it.
 
 ## oled
@@ -102,7 +102,7 @@ switch isn't wired.
 
 ## firmware
 
-qmk. `firmware/firmware.uf2` is prebuilt, so to flash it just double tap reset
+qmk. `production/firmware.uf2` is prebuilt, so to flash it just double tap reset
 on the xiao and drag the file onto the drive that appears.
 
 to build it yourself, drop `firmware/` into
@@ -115,8 +115,10 @@ qmk compile -kb keyboard_shortcut_board -km default
 ## layout
 
 ```
-pcb/        kicad source, gerbers and the board step
-firmware/   qmk source and the compiled uf2
-cad/        case model
-assets/     images for this readme
+pcb/         kicad source and the board step
+firmware/    qmk source
+cad/         assembled case model
+production/  everything you need to build one: gerbers, the two
+             printable case parts, and the prebuilt uf2
+assets/      images for this readme
 ```
